@@ -1,0 +1,136 @@
+nav{
+    background-color: #f6f6f6;
+}
+.nav{
+    padding:0px 40px !important;
+}
+.img-logo{
+    padding: 12px;
+}
+.img-logo img{
+    transition: all 0.1s ease;
+    width: 31px;
+}
+.img-logo:hover img{
+    transform: scale(1.2);
+}
+.bolde .nav-link{
+    font-size: 17px;
+    font-weight: 600;
+    color: black !important;
+}
+.mxs .mb-0{
+    font-weight: bolder;
+    font-size: 17px;
+}
+.vr{
+    border: 1px solid black !important;
+}
+.fa-search{
+    font-size: 15px;
+}
+.bolde .nav-link:hover{
+    color: rgb(255, 238, 0) !important;
+}
+header .hov:hover{
+    color: rgb(255, 238, 0) !important;
+}
+.nav2 .nav-link{
+    font-size: 15px;
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav2 .nav-link:hover{
+    color: black;
+}
+.nav2{
+    height: 45px;
+}
+.nav2 .nav-link:hover hr{
+    display: block !important;
+    height: 4px;
+    color:darkorange;
+}
+.ima img{
+    transition:all .4s ease;
+}
+.ima:hover img{
+    transform: scale(1.1);
+}
+.ima{
+    overflow: hidden;
+}
+.cols .col-sm{
+    box-shadow: 1px 1px 5px gainsboro; 
+    transition: .2s all;
+}
+.cols .col-sm:hover{
+    box-shadow: 1px 1px 20px gainsboro;
+    transform: translateY(-4px);
+}
+.lge img ,.deg ,.degres{
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px gainsboro; 
+    transition: .2s all;
+}
+.lge img:hover{
+    box-shadow: 1px 1px 20px gainsboro;
+    transform: translateY(-4px);
+}
+.deg:hover{
+    box-shadow: 1px 1px 20px gainsboro;
+    transform: translateY(-4px);
+}
+.degres:hover{
+    box-shadow: 1px 1px 20px gainsboro;
+    transform: translateY(-4px);
+}
+.deg{
+    position:relative ;
+    padding-top: 100px;
+    height: 730px;
+}
+.deg .img{
+    position: absolute;
+    box-shadow: 1px 1px 10px gainsboro;
+    width: 100px;
+    height: 100px;
+    top: -30px;
+    transform: translateX(-48%);
+}
+.bt{
+    width: 150px !important;
+}
+.bts{
+    width: 85%;
+}
+.fs{
+    font-size: 14px;
+}
+.xe{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.deg .text-secondary{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.deg:hover .text-dark{
+    color: orange !important;
+    text-decoration: underline;
+}
+.fw{
+    font-size: 16px;
+}
+.or .nav-link:hover{
+    color: orange !important;
+}
+.link:hover{
+    color: orange !important;
+}
+.colss{
+    width: 222px;
+}
